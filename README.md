@@ -1,4 +1,6 @@
-### Hi there 👋 , my name is Christian Tellez and a litte more about me can be read below!
+### Hi , I'm  Christian Tellez 👋
+- 🌱 I’m currently learning at UC Berkely for Full Stack Software Development
+- 🔭 I’m currently working on building applications using the knowledge I have learned 
 
 <!--
 **tellez215/tellez215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
